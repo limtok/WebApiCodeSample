@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Agency>
+	<Name>Test Name 2</Name>
+	<Description>Test Description 2</Description>
+	<CreatedDate>2002-05-24Z</CreatedDate>
+	<Agents>
+		<Agent>
+			<Name>Test Agent Name 2</Name>
+		</Agent>
+		<Agent>
+			<Name>Test Agent Name 3</Name>
+		</Agent>
+	</Agents>
+</Agency>

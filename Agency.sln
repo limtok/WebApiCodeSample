@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agency.Api", "Agency.Api\Agency.Api.csproj", "{2316C295-037B-45A9-A154-F9A27C43194A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agency.Core", "Agency.Core\Agency.Core.csproj", "{B84C74C5-410D-4589-8866-8250C738211A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agency.EntityFramework", "Agency.EntityFramework\Agency.EntityFramework.csproj", "{BF9F98BC-6E3C-4047-A042-1916C8BBB041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agency.Application", "Agency.Application\Agency.Application.csproj", "{6A9F1923-81B8-4637-BF5D-CEAA0F1D064C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "testing", "testing", "{659A46B2-7CF1-4475-ABE6-6CF9A88F8360}"
+	ProjectSection(SolutionItems) = preProject
+		import\agency1.xml = import\agency1.xml
+		import\agency2.xml = import\agency2.xml
+		import\import.zip = import\import.zip
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2316C295-037B-45A9-A154-F9A27C43194A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2316C295-037B-45A9-A154-F9A27C43194A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2316C295-037B-45A9-A154-F9A27C43194A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2316C295-037B-45A9-A154-F9A27C43194A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84C74C5-410D-4589-8866-8250C738211A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84C74C5-410D-4589-8866-8250C738211A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84C74C5-410D-4589-8866-8250C738211A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84C74C5-410D-4589-8866-8250C738211A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF9F98BC-6E3C-4047-A042-1916C8BBB041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9F98BC-6E3C-4047-A042-1916C8BBB041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9F98BC-6E3C-4047-A042-1916C8BBB041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9F98BC-6E3C-4047-A042-1916C8BBB041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A9F1923-81B8-4637-BF5D-CEAA0F1D064C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9F1923-81B8-4637-BF5D-CEAA0F1D064C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9F1923-81B8-4637-BF5D-CEAA0F1D064C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9F1923-81B8-4637-BF5D-CEAA0F1D064C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C3B4FCF-4258-420D-B030-91477CA1E474}
+	EndGlobalSection
+EndGlobal
